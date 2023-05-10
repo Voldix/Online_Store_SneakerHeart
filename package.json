@@ -2,10 +2,10 @@
   "name": "4_online_store_cart",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "index.html",
   "scripts": {
     "start": "parcel index.html store.html team.html",
-    "build": "parcel build --no-minify index.html store.html team.html"
+    "build": "parcel build index.html store.html team.html"
   },
   "keywords": [],
   "author": "",
