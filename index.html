@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Page Icon  -->
+    <link rel="shortcut icon" href="./img/heart-round.png" type="image/x-icon">
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
+    <!-- Styles -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    <!-- Scripts -->
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/script.js" type="module" defer></script>
+    <title>SneakerHeart</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-success">
+            <div class="container">
+                <a class="navbar-brand p-0 text-dark ms-4 me-0" href="index.html">SneaKerHeart&#4326;</a>
+                <button class="btn-toggler border border-2 border-dark rounded navbar-toggler me-4 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto text-uppercase fw-bold">
+                        <li class="nav-item px-4">
+                            <a class="nav-link text-dark" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item px-4">
+                            <a class="nav-link text-dark" href="store.html">Store</a>
+                        </li>
+                        <li class="nav-item px-4">
+                            <a class="nav-link text-dark" href="team.html">Team</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="home-text-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 col-md-12 col-sm-12">
+                        <h2 class="home-text-1 text-dark mb-4">
+                            Some Of Our Top Fresh Products For You - From SneakerHeart With Love! 
+                        </h2>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12">
+                        <div class="home-text-2 text-secondary">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequatur eaque, esse ab repellendus, dolorem, sint explicabo culpa quaerat ipsa eum fugit nobis nam officia aut libero quis dolore iste asperiores ipsam provident rem vitae. Voluptate at cum deleniti exercitationem?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates consequatur eaque, esse ab repellendus, dolorem.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic1.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic2.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic3.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic4.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic5.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="home-page">
+                                    <img src="./img/home/home-pic6.jpg" alt="sneakers">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section data-cart class="invisible">
+            <div data-cart-items-wrapper style="margin-top: 64px;" class="invisible position-fixed top-0 end-0 mr-3 mb-3 ">
+                <div style="max-height: calc(100vh - 6rem);" class="bg-light d-flex flex-column rounded">
+                    <div data-cart-items-container style="overflow-y: auto;" class="px-3 pt-3">
+                        <!-- here is the location of items in the cart -->
+                    </div>
+                    <div class="d-flex justify-content-between align-items-end  p-3 bg-success rounded-bottom">
+                        <span style="font-size: 18px; font-family: 'Nova Square', cursive;" class="fw-bold text-uppercase">Total:</span>
+                        <span data-cart-total style="font-size: 18px; font-family: 'Nova Square', cursive;" class="fw-bold"></span>
+                    </div>
+                </div>
+            </div>
+            <button data-cart-button style="width: 45px; height: 45px;" class="cart-btn rounded-circle position-fixed top-0 end-0 me-3 mt-2 bg-success">
+                <img src="./img/cart.png" alt="cart">
+                <div data-cart-quantity style="width: 22px; height: 22px; font-family: 'Nova Square', cursive;" class="rounded-circle bg-success text-white position-absolute top-75 start-100 translate-middle"></div>
+            </button>
+        </section>
+        <template id="cart-item-template">
+            <div data-item class="mb-3">
+                <div class="d-block position-relative overflow-hidden h-24">
+                    <img data-img style="width: 230px;" alt="sneakers" class="border rounded border-success border-3">
+                    <button data-remove-from-cart-button style="width: 24px; height: 24px; outline: 0;" class="cart-delete-btn  position-absolute top-0 end-0 bg-success rounded-top-end text-white border-success d-flex justify-content-center align-items-center">&#10008;</button>
+                </div>
+                <div class="mt-1 d-flex justify-content-between">
+                    <div class="d-flex align-items-center">
+                        <span data-name style="font-size: 13px; font-family: 'Nova Square', cursive;" class="m-0 fw-bold"></span>
+                        <span data-quantity style="font-size: 13px; font-family: 'Nova Square', cursive;" class="ms-1 text-secondary"></span>
+                    </div>
+                    <div data-price style="font-size: 13px; font-family: 'Nova Square', cursive;" class="fw-bold"></div>
+                </div>
+            </div>
+        </template>
+    </main>
+    <footer class="text-center bg-success py-3 fw-bold">
+        <div class="footer-text">
+            &#169;2023 - Developed for portfolio by Vladi Akhrem
+        </div>
+    </footer>
+</body>
+
+</html>

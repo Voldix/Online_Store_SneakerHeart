@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Jordan Max Aura 4",
+        "category": "Casual / Sport",
+        "priceCents": 9000,
+        "imageColor": "https://sun9-40.userapi.com/impg/LiaAYUlHFT4V4MBI28BiyDCUZ3xyr4OVyx35jw/a9VCy3xcakE.jpg?size=1200x690&quality=95&sign=1500b384e4d14fc3d72615767ff5e92f&type=album"
+    },
+    {
+        "id": 2,
+        "name": "Jordan 13 Retro P.O",
+        "category": "Casual / Sport",
+        "priceCents": 21000,
+        "imageColor": "https://sun9-23.userapi.com/impg/Bb9m9R-3e0kiN5WJIeymXC9Ce1EppP-3rkJvFQ/be9uyXI_V8c.jpg?size=1200x690&quality=95&sign=683ca99dd4934f36aa803a1c2e786f4f&type=album"
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Flight Lite",
+        "category": "Casual / Sport",
+        "priceCents": 11500,
+        "imageColor": "https://sun9-16.userapi.com/impg/EnKI5wNSbC6Z6kKmWaxrI6CSHM6pOG9OlFCNRw/RZDBSd72pho.jpg?size=1200x690&quality=95&sign=723401d6863113d11f5631bd672fc213&type=album"
+    },
+    {
+        "id": 4,
+        "name": "Jordan Air 12 Retro",
+        "category": "Casual / Sport",
+        "priceCents": 22500,
+        "imageColor": "https://sun9-23.userapi.com/impg/yHVa66UhDS3mt-NxOMubORxwjSa-FhOIGt7a3A/R3lmgIGZMTo.jpg?size=1200x690&quality=95&sign=bbb461d65de087d55911be992cb21c5a&type=album"
+    },
+    {
+        "id": 5,
+        "name": "Nike Uptempo 96",
+        "category": "Casual / Sport",
+        "priceCents": 18500,
+        "imageColor": "https://sun9-41.userapi.com/impg/A8dWdJuYPBH0VCcDu3Ofdmn2JWmHC7Nkv1okbA/fMPeuxl1N7w.jpg?size=1200x690&quality=95&sign=1a2d1bbea8ffb8df3b96c6e53e97330e&type=album"
+    },
+    {
+        "id": 6,
+        "name": "Nike Zoom Flight 95",
+        "category": "Casual / Sport",
+        "priceCents": 18500,
+        "imageColor": "https://sun9-70.userapi.com/impg/IftcP6-JeW13EemXfDo8DmHnn1uBoWQK_nBksQ/-bxzyWSF1M0.jpg?size=1200x690&quality=95&sign=d3c086271da2adfeff30d4062eb68578&type=album"
+    },
+    {
+        "id": 7,
+        "name": "Nike Air Flight 89",
+        "category": "Casual / Sport",
+        "priceCents": 13000,
+        "imageColor": "https://sun9-18.userapi.com/impg/-iqdLOyZErT_0KOk4P3lNDapVPFAEhXglu0gFA/nkRe4CgxZrY.jpg?size=1200x690&quality=95&sign=c7fd6e75aeb319e141dcb5c773af50d1&type=album"
+    },
+    {
+        "id": 8,
+        "name": "Jordan Legacy 312",
+        "category": "Casual / Sport",
+        "priceCents": 13500,
+        "imageColor": "https://sun9-31.userapi.com/impg/bV9WilfzRcWenB8VT9IJMIFW5rruXeBO_2cVLg/1dpijpQVnUg.jpg?size=1200x690&quality=95&sign=ae0705246f8e6ef60a5c566e6ff8b24c&type=album"
+    },
+    {
+        "id": 9,
+        "name": "Jordan JM 2 Trey",
+        "category": "Casual / Sport",
+        "priceCents": 15000,
+        "imageColor": "https://sun9-73.userapi.com/impg/FhPJBkH3BR9hZOi8bDgcAnfd1SDzfKAE4wwDmw/uLL5rDWTo9A.jpg?size=1200x690&quality=95&sign=8f5a2e287965eab272a6bf6d55e9cc1f&type=album"
+    },
+    {
+        "id": 10,
+        "name": "Jordan JM PRO",
+        "category": "Casual / Sport",
+        "priceCents": 12000,
+        "imageColor": "https://sun9-64.userapi.com/impg/wq7phIhM5NiI3ub1X5UPb_FcNSHJpf6fdaRTSQ/OMCC5ik3jxg.jpg?size=1200x690&quality=95&sign=d257ff215550cf0c522580f25340687a&type=album"
+    },
+    {
+        "id": 11,
+        "name": "Nike Air Force 1",
+        "category": "Casual / Sport",
+        "priceCents": 11000,
+        "imageColor": "https://sun9-78.userapi.com/impg/7_jEpNHoZTHb1YFKhKBA-uN19StmaSAEx2rDow/jjTHQa8VZO8.jpg?size=1200x690&quality=95&sign=3631595eb7ebd558589ff701e779c48e&type=album"
+    },
+    {
+        "id": 12,
+        "name": "Jordan 14 Retro",
+        "category": "Casual / Sport",
+        "priceCents": 20000,
+        "imageColor": "https://sun9-33.userapi.com/impg/DBCxCu3woqB5TarvpH9OpCEsL7Tem4ansg5z9w/rXbaauSeKN8.jpg?size=1200x690&quality=95&sign=a94841c3c423c8231f9c04d890fa4be5&type=album"
+    }
+]
