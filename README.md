@@ -1,4 +1,4 @@
-# Online_Store_SneakerHeart
+# Online Store Cart SneakerHeart
 ## See Live - https://portfolio-sneakers-online-store.netlify.app
 
 ![App Screenshot](/img/screenshot1.PNG)
